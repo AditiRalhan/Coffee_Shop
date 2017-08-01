@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JUSTJAVA</string>
+    <string name="whipped_cream">Crème fouettée</string>
+    <string name="toppings">Garnitures</string>
+    <string name="quantity">Quantité</string>
+    <string name="order_details">Détails de la commande</string>
+    <string name="order">Commande</string>
+    <string name="maps">Cartes</string>
+    <string name="your_name">Entrez votre nom :</string>
+    <string name="day">Bonne journée du café !</string>
+    <string name="chocolate">Chocolat</string>
+    <string name="COFFEE_SHOP">CAFÉ</string>
+    <string name="extra_sugar">Sucre supplémentaire </string>
+    <string name="no_less_coffee">Vous ne pouvez pas commander moins que cela </string>
+    <string name="no_more_coffee">Vous ne pouvez pas commander plus de café </string>
+    <string name="contact_number">Numéro de contact: </string>
+    <string name="order_details_of">Commander des détails sur </string>
+    <string name="total">Total: € </string>
+    <string name="thankyou">MERCI DE L\'ORDRE!</string>
+    <string name="topping_choc">Ajout de garniture de chocolat</string>
+    <string name="topping_sugar">Crème fouettée ajoutée</string>
+    <string name="topping_whippedcream">Ajout ajouté au sucre supplémentaire </string>
+    <string name="nam">Nom:</string>
+</resources>
